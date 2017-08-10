@@ -1,2 +1,1 @@
-# hello
-my first repository
+Bau!
